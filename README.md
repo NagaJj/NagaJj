@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NagaJj
 - 👀 I’m interested in project development
-- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on coding 
 - 📫 How to reach me 9943669665
 - 😄 Pronouns: ...
